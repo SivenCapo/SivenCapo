@@ -11,10 +11,10 @@
                  MM                                                                        MM                        MM 
                  MM                                                                      .JMML.                   mmmMM </pre>
 
- ###👋 Yoo, I'm Siven
-🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
-⚓ Deep Learning Enthusiast, especially in the field of Computer Vision.
-⚡ C++ / Python / Java / Shell
+### 👋 Yoo, I'm Siven
+- 🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
+- ⚓ Deep Learning Enthusiast, especially in the field of Computer Vision.
+- ⚡ C++ / Python / Java / Shell
 
 <p align="center">
     <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
