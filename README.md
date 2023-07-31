@@ -24,9 +24,7 @@
 <p align="center">
     <a href="https://github.com/SivenCapo?tab=followers" target="_blank"><img alt="Updates" src="https://img.shields.io/badge/--000000?style=flat-square&logo=RSS&logoColor=white"></a>
     <a href="https://github.com/SivenCapo" target="_blank"><img alt="alwinw" src="https://badges.pufler.dev/visits/alwinw/alwinw?logo=GitHub&label=visits&color=success&logoColor=white&style=flat-square"/></a>
- <pre>                                                                                             
-                                                                     __
-                                                                    d888b
+ <pre>                                                              d888b
                                                                    888888b
                                                                    8888888
                                                                    8888888
@@ -66,10 +64,7 @@
                    |                                               |\      _,,,--,,_  ,) | 
                    | ..Nice to meet you all...                     /,`.-'`'   -,  ;-;;'  |
                    |_____________________________________________ |,4-  ) )-,_ ) /\______|
-                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'---''(_/--' (_/-'~~~~~~
-
-
-</pre>
+                    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'---''(_/--' (_/-'~~~~~~  </pre>
 
 ## ⚡ Domains:
 -Deep Learnin
