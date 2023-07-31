@@ -1,6 +1,6 @@
   <pre>                                                                         
                                                                                                                          
-                 mmmmm                ,,                                                                          mmmmm 
+                 mmmmm                ,,                                                                             mm 
                  MM         .M"""bgd  db                                .g8"""bgd                                    MM 
                  MM        ,MI    "Y                                  .dP'     `M                                    MM 
                  MM        `MMb.    `7MM `7M'   `MF'.gP"Ya `7MMpMMMb. dM'       ` ,6"Yb. `7MMpdMAo.  ,pW"Wq.         MM 
@@ -9,7 +9,12 @@
                  MM        Mb     dM  MM     VVV   YM.    ,  MM    MM `Mb.     ,'8M   MM   MM   ,AP YA.   ,A9        MM 
                  MM        P"Ybmmd" .JMML.    W     `Mbmmd'.JMML  JMML. `"bmmmd' `Moo9^Yo. MMbmmd'   `Ybmd9'         MM 
                  MM                                                                        MM                        MM 
-                 MMmmm                                                                   .JMML.                   mmmMM </pre>
+                 MM                                                                      .JMML.                   mmmMM </pre>
+
+ ###👋 Yoo, I'm Siven
+🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
+⚓ Deep Learning Enthusiast, especially in the field of Computer Vision.
+⚡ C++ / Python / Java / Shell
 
 <p align="center">
     <a href="https://github.com/alwinw?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
