@@ -73,6 +73,7 @@
 ## ⚡ Domains:
 - Deep Learning
   - Computer Vision
+    - Remote Sensing
     - Super Resolution
     - Detection
     - Segment
