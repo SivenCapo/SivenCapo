@@ -75,6 +75,7 @@
   - Computer Vision
     - Remote Sensing
     - Super Resolution
+    - Fusion
     - Detection
     - Segment
   - Speech
