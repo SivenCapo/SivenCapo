@@ -75,9 +75,11 @@
   - Automatic Drive
     - Landmark Detection
   - Computer Vision
-    - Remote Sensing
-    - Super Resolution
-    - Fusion
+    - Low-level
+     - Remote Sensing
+     - Super Resolution
+     - Fusion
+    - High-level
     - Detection
     - Segment
   - Speech
