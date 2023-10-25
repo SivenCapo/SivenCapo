@@ -13,7 +13,7 @@
 
 ### 👋 Yoo, I'm Siven
 - 🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
-- ⚓ Deep Learning Enthusiast, especially in the field of Computer Vision.
+- ⚓ Deep Learning Enthusiast, especially in the field of _Computer Vision_ and _Automatic Drive_.
 - ⚡ C++ / Python / Java / Shell
 - 🎨 ASCII Art Enthusiast
 
