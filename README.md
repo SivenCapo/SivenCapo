@@ -76,12 +76,12 @@
     - Landmark Detection
   - Computer Vision
     - Low-level
-     - Remote Sensing
-     - Super Resolution
-     - Fusion
+      - Remote Sensing
+      - Super Resolution
+      - Fusion
     - High-level
-    - Detection
-    - Segment
+      - Detection
+      - Segment
   - Speech
 
 
