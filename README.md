@@ -72,6 +72,8 @@
 
 ## ⚡ Domains:
 - Deep Learning
+  - Automatic Drive
+    - Landmark Detection
   - Computer Vision
     - Remote Sensing
     - Super Resolution
@@ -79,5 +81,5 @@
     - Detection
     - Segment
   - Speech
-  - Automatic Drive
+
 
