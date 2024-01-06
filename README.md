@@ -12,15 +12,12 @@
                                                                                    .JMML.                   mmmMM </pre>
 
 ### 👋 Yoo, I'm Siven
-- 🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
-- Dec 2022 - Jun 2023 : Research intern at Beijing Institute of Technology, advised by Huijun Di
-- Jun 2023 - Jan 2024 : Visiting Student at Beijing Institute of Technology, advised by Dong Li
-- Sept 2023 - Jan 2024 : Visual Perception Algorithms Intern of Momenta, advised by Jun Li
--  
-- 
-- 
+- Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
+- Dec 2022 - Jun 2023 : Research intern at __Beijing Institute of Technology__, advised by Huijun Di
+- Jun 2023 - Jan 2024 : Visiting Student at __Institute of Computing Technology, Chinese Academy of Sciences__, advised by Dong Li
+- Sept 2023 - Jan 2024 : Visual Perception R&D Intern at __Momenta__, advised by Jun Li
+- Jan 2024 - Now : Research intern at __Academy of Military Sciences__, advised by Baoyun Peng
 - ⚓ Deep Learning Enthusiast, especially in the field of _Computer Vision_ and _Automatic Drive_.
-- 
 - ⚡ C++ / Python / Java / Shell
 
 <p align="center">
