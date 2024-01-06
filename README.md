@@ -75,6 +75,6 @@
     - Multimodal Fusion
   - Remote Sensing
     - Super Resolution
-    - Denoise
+  - Denoise
 
 
