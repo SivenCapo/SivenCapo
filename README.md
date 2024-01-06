@@ -13,7 +13,14 @@
 
 ### 👋 Yoo, I'm Siven
 - 🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
+- Dec 2022 - Jun 2023 : Research intern at Beijing Institute of Technology, advised by Huijun Di
+- Jun 2023 - Jan 2024 : Visiting Student at Beijing Institute of Technology, advised by Dong Li
+- Sept 2023 - Jan 2024 : Visual Perception Algorithms Intern of Momenta, advised by Jun Li
+-  
+- 
+- 
 - ⚓ Deep Learning Enthusiast, especially in the field of _Computer Vision_ and _Automatic Drive_.
+- 
 - ⚡ C++ / Python / Java / Shell
 
 <p align="center">
