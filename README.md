@@ -17,9 +17,9 @@
 - Jun 2023 - Jan 2024 : Visiting Student at __Institute of Computing Technology, Chinese Academy of Sciences__, advised by Dong Li
 - Sept 2023 - Jan 2024 : Visual Perception R&D Intern at __Momenta__, advised by Jun Li
 - Jan 2024 - Now : Research intern at __Academy of Military Sciences__, advised by Baoyun Peng
-- ⚓ Deep Learning Enthusiast, especially in the field of _Computer Vision_ and _Automatic Drive_.
-- ⚡ C++ / Python / Java / Shell
 
+
+- ⚡ C++ / Python / Java / Shell
 <p align="center">
     <a href="https://github.com/SivenCapo?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
     <a href="https://github.com/SivenCapo?tab=repositories&language=python" target="_blank"><img alt="python" src="https://img.shields.io/badge/-python-3776AB?style=flat-square&logo=Python&logoColor=white"></a>
