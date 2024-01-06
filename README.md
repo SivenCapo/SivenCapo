@@ -13,10 +13,10 @@
 
 ### 👋 Yoo, I'm Siven
 - Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
-- Dec 2022 - Jun 2023 : Research intern at [___Beijing Institute of Technology___], advised by Huijun Di
-- Jun 2023 - Jan 2024 : Visiting Student at [___Institute of Computing Technology, Chinese Academy of Sciences___], advised by Dong Li
-- Sept 2023 - Jan 2024 : Visual Perception R&D Intern at [___Momenta___], advised by Jun Li
-- Jan 2024 - Now : Research intern at [___The People's Liberation Army，Academy of Military Sciences___], advised by Baoyun Peng
+- Dec 2022 - Jun 2023 : Research intern at ___Beijing Institute of Technology___, advised by Huijun Di
+- Jun 2023 - Jan 2024 : Visiting Student at ___Institute of Computing Technology, Chinese Academy of Sciences___, advised by Dong Li
+- Sept 2023 - Jan 2024 : Visual Perception R&D Intern at ___Momenta___, advised by Jun Li
+- Jan 2024 - Now : Research intern at ___The People's Liberation Army，Academy of Military Sciences___, advised by Baoyun Peng
 
 
 - ⚡ C++ / Python / Java / Shell
