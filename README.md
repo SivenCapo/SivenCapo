@@ -15,7 +15,6 @@
 - 🔭 Senior at 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
 - ⚓ Deep Learning Enthusiast, especially in the field of _Computer Vision_ and _Automatic Drive_.
 - ⚡ C++ / Python / Java / Shell
-- 🎨 ASCII Art Enthusiast
 
 <p align="center">
     <a href="https://github.com/SivenCapo?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -71,17 +70,11 @@
                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'---''(_/--' (_/-'~~~~~~  </pre>
 
 ## ⚡ Domains:
-- Deep Learning
   - Automatic Drive
     - Landmark Detection
-  - Computer Vision
-    - Low-level
-      - Remote Sensing
-      - Super Resolution
-      - Fusion
-    - High-level
-      - Detection
-      - Segment
-  - Speech
+    - Multimodal Fusion
+  - Remote Sensing
+    - Super Resolution
+    - Denoise
 
 
