@@ -74,7 +74,7 @@
                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'---''(_/--' (_/-'~~~~~~  </pre>
 
 ## ⚡ Domains:
-  - Automatic Drive
+  - Automatic Driving
     - Landmark Detection
     - Multimodal Fusion
   - Remote Sensing
