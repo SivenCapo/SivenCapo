@@ -75,10 +75,11 @@
 
 ## ⚡ Domains:
   - Automatic Driving
+    - 3D Object Detection
+    - BEV Fusion
     - Landmark Detection
     - Multimodal Fusion
   - Remote Sensing
     - Super Resolution
-  - Denoise
 
 
