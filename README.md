@@ -17,8 +17,7 @@
 - Jun 2023 - Jan 2024 : Visiting Student at ___Institute of Computing Technology, Chinese Academy of Sciences___, advised by Dong Li
 - Sept 2023 - Jan 2024 : Visual Algorithms R&D Intern at ___Momenta___, advised by Jun Li
 - Jan 2024 - Now : Research intern at ___The People's Liberation Army，Academy of Military Sciences___, advised by Baoyun Peng
-
-
+- Jan 2024 - Now : Perception Algorithms R&D Intern at ___NIO___, advised by Guozheng Dai
 - ⚡ C++ / Python / Java / Shell
 <p align="center">
     <a href="https://github.com/SivenCapo?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
