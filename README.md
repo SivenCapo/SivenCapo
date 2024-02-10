@@ -61,9 +61,9 @@
                    |      88        88                                                   |
                    |      88        88           Siwen_Jiao                              |
                    |      88ba,___,d8P                                                   |
-                   |       "888888888    A Computer Vision Algorithm Enthusiast          |
+                   |       "888888888                                                    |
                    |          ~~~~~~                                                     |
-                   |  Just burn,create and work, nothing else needs to be done. Enjoy.   |
+                   |                                                                     |
                    |_____________________________________________________________________|
                    |   contact info: siwenjiao380@gmail.com                              |
                    |                                                                     |
