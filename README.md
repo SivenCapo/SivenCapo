@@ -75,11 +75,9 @@
 
 ## ⚡ Domains:
   - Automatic Driving
-    - 3D Object Detection
+    - 4D Dynamic Vision Perception
     - BEV Fusion
-    - Landmark Detection
-    - Multimodal Fusion
-  - Remote Sensing
-    - Super Resolution
+    - 2D Landmark Detection
+  - Image Restoration
 
 
