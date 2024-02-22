@@ -16,7 +16,6 @@
 - Dec 2022 - Jun 2023 : Research intern at ___BIT___, advised by Huijun Di
 - Jun 2023 - Jan 2024 : Visiting Student at ___ICT,CAS___, advised by Dong Li
 - Sept 2023 - Jan 2024 : Visual Algorithms R&D Intern at ___Momenta___, advised by Jun Li
-- Jan 2024 - Now : Research intern at ___NUDT___, advised by Baoyun Peng
 - Jan 2024 - Now : Perception Algorithms R&D Intern at ___NIO___, advised by Guozheng Dai
 - Feb 2024 - Now : Research intern at ___PKU___, advised by Shunzhou Wang
 - ⚡ C++ / Python / Java / Shell
