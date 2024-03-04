@@ -75,7 +75,7 @@
 ## ⚡ Domains:
   - Automatic Driving
     - 4D Dynamic Vision Perception
-    - BEV Fusion
+    - BEV + Distill
     - 2D Landmark Detection
   - Image Restoration
 
