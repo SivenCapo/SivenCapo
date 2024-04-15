@@ -12,7 +12,7 @@
                                                                                    .JMML.                   mmmMM </pre>
 
 ### 👋 Yoo, I'm Siven
-- 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science and Technology_
+- 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science_
 - 🇸🇬 [NUS]((https://nus.edu.sg)), _MSc in Computer Engineering_
 - ⚡ C++ / Python / Shell
 <p align="center">
