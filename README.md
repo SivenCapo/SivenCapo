@@ -1,17 +1,5 @@
-  <pre>                                                                         
-                                                                                                                         
-           mmmmm                ,,                                                                               
-           MM         .M"""bgd  db                                .g8"""bgd                                       
-           MM        ,MI    "Y                                  .dP'     `M                                     
-           MM        `MMb.    `7MM `7M'   `MF'.gP"Ya `7MMpMMMb. dM'       ` ,6"Yb. `7MMpdMAo.  ,pW"Wq.            
-           MM          `YMMNq.  MM   VA   ,V ,M'   Yb  MM    MM MM         8)   MM   MM   `Wb 6W'   `Wb        MM 
-           MM        .     `MM  MM    VA ,V  8M""""""  MM    MM MM.         ,pm9MM   MM    M8 8M     M8        MM 
-           MM        Mb     dM  MM     VVV   YM.    ,  MM    MM `Mb.     ,'8M   MM   MM   ,AP YA.   ,A9        MM 
-                     P"Ybmmd" .JMML.    W     `Mbmmd'.JMML  JMML. `"bmmmd' `Moo9^Yo. MMbmmd'   `Ybmd9'         MM 
-                                                                                     MM                        MM 
-                                                                                   .JMML.                   mmmMM </pre>
 
-### 👋 Yoo, I'm Siven
+### 👋 Hi, I'm Siven
 - 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science_
 - 🇸🇬 [NUS]((https://nus.edu.sg)), _MSc in Computer Engineering_
 - ⚡ C++ / Python / Shell
@@ -70,9 +58,6 @@
 
 ## ⚡ Domains:
   - Automatic Driving
-    - 4D Dynamic Vision Perception
-    - BEV + Distill
-    - 2D Landmark Detection
-  - Image Restoration
+  - 3D Scenario Understanding
 
 
