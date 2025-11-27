@@ -1,7 +1,6 @@
 
 ### 👋 Hi, I'm Siven
 - 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science_
-- 🇸🇬 [NUS]((https://nus.edu.sg)), _MSc in Computer Engineering_
 - ⚡ C++ / Python / Shell
 <p align="center">
     <a href="https://github.com/SivenCapo?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
@@ -57,7 +56,6 @@
                     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~'---''(_/--' (_/-'~~~~~~  </pre>
 
 ## ⚡ Domains:
-  - Automatic Driving
-  - 3D Scenario Understanding
+  - 3D Understanding
 
 
