@@ -1,6 +1,7 @@
 
 ### 👋 Hi, I'm Siven
-- 🇨🇳 [JLU](https://www.jlu.edu.cn), _BSc in Computer Science_
+- [Jilin University](https://www.jlu.edu.cn), _BSc in Computer Science_
+- Intern at Amap
 - ⚡ C++ / Python / Shell
 <p align="center">
     <a href="https://github.com/SivenCapo?tab=repositories" target="_blank"><img alt="Code" src="https://img.shields.io/badge/-code-000000?style=flat-square&logo=Plex&logoColor=white"></a>
